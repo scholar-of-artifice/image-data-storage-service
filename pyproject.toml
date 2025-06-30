@@ -1,0 +1,7 @@
+[project]
+name = "image-data-storage-service"
+version = "0.1.0"
+description = "This is a basic microservice that can be used to store images and associated metadata."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
